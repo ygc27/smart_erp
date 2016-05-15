@@ -134,8 +134,8 @@ class Email_model extends CI_Model {
         $config['smtp_host'] = "ssl://smtp.googlemail.com";
         $config['smtp_port'] = "465";
         $config['smtp_timeout'] = '30';
-        $config['smtp_user'] = 'grijalba21@gmail.com';
-        $config['smtp_pass'] = 'Ygc5372620136';
+        $config['smtp_user'] = 'email';
+        $config['smtp_pass'] = 'senha';
         $config['mailtype'] = 'html';
         $config['charset'] = 'utf-8';
         $config['newline'] = "\r\n";
